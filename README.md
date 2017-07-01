@@ -1,3 +1,7 @@
+# Changes to the orginal Nova-vim scheme
+
+* Darker background - increaing contrast a bit to make the scheme work in lighter environments
+
 # nova-vim
 
 Nova color scheme plugin for Vim
